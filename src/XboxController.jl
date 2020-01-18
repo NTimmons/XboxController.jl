@@ -39,7 +39,7 @@ struct ControllerState
     dpad::DPad
     thumbSticks::ThumbSticks
     triggers::Triggers
-end
+end 
 
 function InitialiseControllerInput()
      return ccall((:Initialise, "WindowsXInput.dll"), Int32,
