@@ -1,0 +1,7 @@
+name = "XboxController"
+uuid = "84b136a2-8bec-4844-b63d-93659377b41a"
+authors = ["Nick Timmons <ngtimmons@gmail.com>"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
